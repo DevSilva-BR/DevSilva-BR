@@ -1,7 +1,7 @@
 ### Ola! eu sou o Jemison da Silva✌️
 
 #
-<div style="justify-content:"center"">
+<div style="justify-content:center">
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=chartreuse-dark)
 </div>
 # 🛠️Tecnologias
