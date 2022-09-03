@@ -7,9 +7,9 @@
 # 🛠️Tecnologias
 <div style="display: inline_block" >
 <h2> Languages <h2>
-   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26
-"> <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue
-"> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
+   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue"> 
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 "> <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC
 "> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=
 " >
