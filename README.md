@@ -2,8 +2,8 @@
 
 #
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=chartreuse-dark">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=chartreuse-dark">
+<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini">
 </div>
 # 🛠️Tecnologias
 <div style="display: inline_block" >
