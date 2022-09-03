@@ -1,6 +1,6 @@
 ### Ola! eu sou o Jemison da Silva✌️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR)](https://github.com/anuraghazra/github-readme-stats)
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠️Tecnologias
 <div style="display: inline_block" >
