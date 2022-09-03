@@ -1,8 +1,12 @@
 ### Ola! eu sou o Jemison da Silva✌️
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 # 🛠️Tecnologias
 <div style="display: inline_block" >
 <h2> Languages <h2>
