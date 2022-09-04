@@ -1,8 +1,7 @@
 ## Ola! eu sou o Jemison da Silva✌️
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Sou estudante do terceiro ano de Engenharia da Computação na Universidade McMaster. Atualmente trabalhando em projetos pessoais e aprendendo mais sobre desenvolvimento front-end e back-end. Obrigado pela visita e fique à vontade para conferir meus projetos pessoais/hackathon abaixo.
+
+
 
 # 🛠️Tech Stack
 <div style="display: inline_block">
@@ -33,6 +32,11 @@
 <div style="margin-top:5px">
 <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
+<h2>⚙️GitHub Analytics</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark"/>
+</div>
 ### 📫Entrar em contato
 
 [![]()]
