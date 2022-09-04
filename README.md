@@ -4,10 +4,11 @@ Sou estudante do terceiro ano de Engenharia da Computação na Universidade McMa
 
 
 # 🛠️Tech Stack
+<center>
 <div style="margin-top:5px;padding-inline-start: 270px;justify-content: center;">
 <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
+<center>
 <div style="margin-top:5px;padding-inline-start: 195px" >
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff">
