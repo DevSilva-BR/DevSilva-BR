@@ -1,13 +1,11 @@
-### Ola! eu sou o Jemison da Silva✌️
+## Ola! eu sou o Jemison da Silva✌️
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# 🛠️Tecnologias
+## Tecnologias que eu uso no meu dia
 <div style="display: inline_block" >
-<h2> Languages <h2>
    <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue"> 
    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
