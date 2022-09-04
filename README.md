@@ -8,7 +8,6 @@ Sou estudante do terceiro ano de Engenharia da Computação na Universidade McMa
 <div style="margin-top:5px;padding-inline-start: 270px;justify-content: center;">
 <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-</center>
 <div style="margin-top:5px;padding-inline-start: 195px" >
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff">
@@ -37,6 +36,7 @@ Sou estudante do terceiro ano de Engenharia da Computação na Universidade McMa
 <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
+   </center>
 <h2>⚙️GitHub Analytics</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
