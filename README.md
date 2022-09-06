@@ -7,11 +7,24 @@
 
 <div align="center" >
  
+ 
+</div>
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
+  <div id="badges">
  <a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" target="_blank">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
   </a>
+  <a href="https://www.youtube.com/c/ProfMardoqueuSousa">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/SousaMardoqueu">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-
+      <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
+</div>
 
 <br>
 
