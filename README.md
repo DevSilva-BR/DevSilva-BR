@@ -2,28 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=44&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jemison+Da+Silva.;Eu+Tenho+18+Anos;Eu+Moro+No+Brasil,+SP.;Eu+Sou+Estudante+e+Programador+Full-Stack.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)<br>
 
- 
-<br>
-
-<div align="center" >
- 
- 
-</div>
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230"/>
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  width="200"/>
   <div id="badges">
- <a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" target="_blank">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
-  </a>
-  <a href="https://www.youtube.com/c/ProfMardoqueuSousa">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/SousaMardoqueu">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="www.linkedin.com/in/jemison-da-silva-de-jesus-24b076233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a> 
+  <a href="mailto:jemisonjesus2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E34F26" target="_blank"></a>
 </div>
-      <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=DevSilva-BR&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br>
@@ -86,6 +72,5 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/jemison-da-silva-de-jesus-24b076233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a> 
-  <a href="mailto:jemisonjesus2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E34F26" target="_blank"></a>
+  
 </div>
