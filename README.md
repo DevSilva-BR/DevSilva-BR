@@ -5,10 +5,8 @@
  
 <br>
 
-<div align="center">
-  - 🔭 Atualmente estou procurando estagio
-- 🧠 Estou aprendendo Javascript,TypeScript
-- 📫 Como chegar até mim **jemisonjesus2000@gmail.com**
+<div align="center" >
+ 
  <a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" target="_blank">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
   </a>
