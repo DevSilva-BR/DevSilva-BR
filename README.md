@@ -6,12 +6,19 @@
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"  width="200"/>
   <div id="badges">
+ 
   <a href="www.linkedin.com/in/jemison-da-silva-de-jesus-24b076233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a> 
   <a href="mailto:jemisonjesus2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E34F26" target="_blank"></a>
 </div>
       <img src="https://komarev.com/ghpvc/?username=DevSilva-BR&style=flat-square&color=blue" alt=""/>
 </div>
-
+ <div aling="left">
+  - 🔭 I’m currently working on Front-end<br>
+- 🌱 I’m currently learning React/NextJS <br>
+- 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software <br>
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)<br>
+- 😄 Pronouns: He/Him
+  </div>
 <br>
 
 # 🛠️Tech Stack
