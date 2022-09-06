@@ -8,7 +8,7 @@
   <div id="badges">
  
   <a href="https://linkedin.com/in/jemison-da-silva-de-jesus-24b076233" ><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=%230077B5" target="_blank"></a> 
-  <a href="emailto:jemisonjesus2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E34F26" target="_blank"></a>
+  <a href="mailto:jemisonjesus2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E34F26" target="_blank"></a>
 </div>
       <img src="https://komarev.com/ghpvc/?username=DevSilva-BR&style=flat-square&color=blue" alt=""/>
 </div>
@@ -19,7 +19,7 @@
   </div>
 <br>
 
-# 🛠️Tech Stack
+# 🛠️Tech Skills
   <!---- web--->
 <div align="start" valign="top"><br>
         <!---- html--->
