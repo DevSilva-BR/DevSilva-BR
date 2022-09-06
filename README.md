@@ -7,14 +7,12 @@
   </a>
 <br>
 
-
+<div >
 - 🔭 Atualmente estou procurando estagio
 - 🧠 Estou aprendendo Javascript,TypeScript
 - 📫 Como chegar até mim **jemisonjesus2000@gmail.com**
 <br>
-<br>
-<br>
-<br>
+
 # 🛠️Tech Stack
   <!---- web--->
 <div align="start" valign="top"><br>
