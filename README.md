@@ -6,14 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
   </a>
 <br>
-<br>
-<br>
+
 
 - 🔭 Atualmente estou procurando estagio
 - 🧠 Estou aprendendo Javascript,TypeScript
 - 📫 Como chegar até mim **jemisonjesus2000@gmail.com**
-<br>
-<br>
 <br>
 <br>
 <br>
