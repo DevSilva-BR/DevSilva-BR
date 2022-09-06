@@ -13,11 +13,9 @@
       <img src="https://komarev.com/ghpvc/?username=DevSilva-BR&style=flat-square&color=blue" alt=""/>
 </div>
  <div aling="left">
-  - 🔭 I’m currently working on Front-end<br>
-- 🌱 I’m currently learning React/NextJS <br>
-- 👯 I’m looking to collaborate on working with development teams and project managers product for idealize solutions in software <br>
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mardoqueu-sousa/)<br>
-- 😄 Pronouns: He/Him
+ - 🔭 Atualmente estou trabalhando com mobile <br>
+  - 🌱 Atualmente estou aprendendo React/React native <br>
+  - 👯 Procuro colaborar no trabalho com equipes de desenvolvimento e gerentes de projeto de produto para idealizar soluções em software <br>
   </div>
 <br>
 
