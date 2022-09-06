@@ -2,15 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=44&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jemison+Da+Silva.;Eu+Tenho+18+Anos;Eu+Moro+No+Brasil,+SP.;Eu+Sou+Estudante+e+Programador+Full-Stack.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)<br>
 
+ 
+<br>
+
+<div align="center">
+  - 🔭 Atualmente estou procurando estagio
+- 🧠 Estou aprendendo Javascript,TypeScript
+- 📫 Como chegar até mim **jemisonjesus2000@gmail.com**
  <a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG" target="_blank">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
   </a>
-<br>
+</div>
 
-<div >
-- 🔭 Atualmente estou procurando estagio
-- 🧠 Estou aprendendo Javascript,TypeScript
-- 📫 Como chegar até mim **jemisonjesus2000@gmail.com**
+
 <br>
 
 # 🛠️Tech Stack
