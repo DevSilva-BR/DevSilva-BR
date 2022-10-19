@@ -32,15 +32,11 @@
  <img  align="center" src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C"> 
       <!---- react--->
  <img align="center" alt="react" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=007ACC" /> 
-   <!---- figma--->
-<img align="center" src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E">
 </div><br>
 
 <div align="center" valign="top">
       <!---- react native--->
 <img align="center" src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=007ACC"/>
-  <!---- php--->
- <img align="center" alt="php" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" />
       <!---- ts--->
 <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC" /> 
       <!---- node js--->
