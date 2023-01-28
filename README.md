@@ -67,11 +67,10 @@
                                                                                                                           
                                                                                                                           
 <h2>⚙️GitHub Analytics</h2>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSilva-BR&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSilva-BR&theme=dark&hide_border=false&&layout=compact" />
 </div>
 
 <div align="center">
