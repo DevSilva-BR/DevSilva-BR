@@ -14,9 +14,9 @@
       <img src="https://komarev.com/ghpvc/?username=DevSilva-BR&style=flat-square&color=blue" alt=""/>
 </div>
  <div aling="left">
- - 🔭 Atualmente estou trabalhando com mobile <br>
-  - 🌱 Atualmente estou aprendendo React/React native <br>
-  - 👯 Procuro colaborar no trabalho com equipes de desenvolvimento e gerentes de projeto de produto para idealizar soluções em software <br>
+ - Currently working with JavaScript/TypeScript <br>
+  - Currently learning new technologies <br>
+   
   </div>
 <br>
 
